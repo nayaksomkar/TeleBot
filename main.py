@@ -4,8 +4,8 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN:Final = '6036486690:AAHRW9Qgid2KX0rZfSkDpXHXqMTRaSeSSNI'
-BOT_USERNAME:Final = '@nayakomkarbutabot'
+TOKEN:Final = '<BOT_TOKEN>'             # Add your '<BOT_TOKEN>' here.
+BOT_USERNAME:Final = '<BOT_USERNAME>'   # Add your '<BOT_USERNAME>' here.
 
 
 
