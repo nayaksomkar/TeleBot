@@ -22,7 +22,7 @@ AI-powered Telegram bot with Mistral AI and Groq fallback.
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nayaksomkar/TeleBot.git
 cd TeleBot
 ```
 
